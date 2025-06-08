@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn[standard]
+PyPDF2
+langchain
+langchain-google-genai
+google-generativeai
+faiss-cpu
+python-dotenv
